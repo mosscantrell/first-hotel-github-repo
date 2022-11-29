@@ -19,12 +19,12 @@
 - git push origin main
 
 ## Keyboard Shortcuts
-- command + s - save
-- command + r - refresh
-- command + x - cut
-- command + c - copy
-- command + v - paste
-- command + z - undo
+- `command + s` - save
+- `command + r` - refresh
+- `command + x` - cut
+- `command + c` - copy
+- `command + v` - paste
+- `command + z` - undo
 
 ## Markdown Syntax
 - (#) creates a header - similar to h1 in HTML
