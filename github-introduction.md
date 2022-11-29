@@ -24,3 +24,8 @@
 - command + c - copy
 - command + v - paste
 - command + z - undo
+
+## Markdown Commands
+- (#) creates a header - similar to h1 in HTML
+- (##) creates a second header -- similar to h2 in HTML
+- (-) creates an entry in an unordered list
